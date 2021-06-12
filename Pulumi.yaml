@@ -1,0 +1,4 @@
+name: pulumi-typescript-aws-template
+runtime: nodejs
+description:
+main: ./src/index.ts
