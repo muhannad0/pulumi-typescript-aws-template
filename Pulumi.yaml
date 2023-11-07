@@ -1,4 +1,6 @@
-name: pulumi-typescript-aws-template
+name: ${PROJECT}
+description: ${DESCRIPTION}
 runtime: nodejs
-description:
 main: ./src/index.ts
+template:
+  description: A minimal AWS Typescript Pulumi program
