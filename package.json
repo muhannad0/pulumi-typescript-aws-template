@@ -16,13 +16,13 @@
   "author": "Mohamed Muhannad <https://github.com/muhannad0>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.8.10",
-    "prettier": "^3.0.3",
-    "typescript": "^5.2.2"
+    "@types/node": "^20.11.30",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.3"
   },
   "dependencies": {
-    "@pulumi/aws": "^6.7.0",
-    "@pulumi/awsx": "^2.1.1",
-    "@pulumi/pulumi": "^3.92.0"
+    "@pulumi/aws": "^6.27.0",
+    "@pulumi/awsx": "^2.6.0",
+    "@pulumi/pulumi": "^3.111.1"
   }
 }
